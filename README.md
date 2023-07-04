@@ -15,8 +15,9 @@ Throughout this project, you will gain proficiency in the following skills:
 **Problem Statement:**
 The copper industry faces challenges in dealing with less complex but skewed and noisy sales and pricing data. Manual predictions are time-consuming and may not yield optimal pricing decisions. Additionally, capturing leads and evaluating their potential as customers can be difficult. The project aims to address these challenges by developing machine learning models for regression and classification tasks.
 
-***Approach***
-__Data Understanding:__
+**Approach:**
+
+**Data Understanding:**
 * Identify variable types (continuous, categorical) and their distributions.
 * Treat rubbish values in 'Material_Reference' starting with '00000' as null.
 * Treat reference columns as categorical variables.
