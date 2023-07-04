@@ -12,7 +12,7 @@ Throughout this project, you will gain proficiency in the following skills:
 * Model evaluation using appropriate metrics and techniques, such as cross-validation and grid search
 * Creating an interactive web application using the Streamlit library
 
-**Problem Statement**
+**Problem Statement:**
 The copper industry faces challenges in dealing with less complex but skewed and noisy sales and pricing data. Manual predictions are time-consuming and may not yield optimal pricing decisions. Additionally, capturing leads and evaluating their potential as customers can be difficult. The project aims to address these challenges by developing machine learning models for regression and classification tasks.
 
 ***Approach***
@@ -47,14 +47,14 @@ Engineer new features, if applicable, to create more informative representations
 * Predict the selling price or status based on the chosen task (regression or classification).
 * Display the predicted output to the user.
 
-**Data**
+**Data:**
   The dataset provided contains the necessary information for regression and classification modeling.
 
-**Instructions**
+**Instructions:**
 * Install the required dependencies listed in the requirements.txt file.
 * Run the preprocessing script to handle missing values, outliers, and transformations.
 * Execute the model building script to train and optimize the regression and classification models.
 * Launch the Streamlit application to interact with the trained models and make predictions on new data.
   
-**Conclusion**
+**Conclusion:**
 This project equips you with practical skills in Python programming, data preprocessing, EDA, machine learning modeling, and web application development. By completing this project, you will gain valuable experience in solving real-world problems in the manufacturing domain using advanced techniques and industry best
