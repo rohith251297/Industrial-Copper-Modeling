@@ -33,7 +33,7 @@ The copper industry faces challenges in dealing with less complex but skewed and
 * Identify highly correlated columns using a heatmap and drop them.
   
 **Feature Engineering:**
-Engineer new features, if applicable, to create more informative representations of the data.
+ Engineer new features, if applicable, to create more informative representations of the data.
 
 **Model Building and Evaluation:**
 * Split the dataset into training and testing/validation sets.
